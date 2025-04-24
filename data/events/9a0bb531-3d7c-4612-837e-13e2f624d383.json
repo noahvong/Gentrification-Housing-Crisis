@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "d620f218-6219-4f42-9be8-6aedab692b5b": {
+      "label": "garage band audio",
+      "is_offline": false,
+      "file_url": "",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Gentrification: The Housing Crisis",
+  "created_at": "2025-04-24T15:08:40.034Z",
+  "created_by": "noahvong",
+  "updated_at": "2025-04-24T15:08:40.034Z",
+  "updated_by": "noahvong"
+}
