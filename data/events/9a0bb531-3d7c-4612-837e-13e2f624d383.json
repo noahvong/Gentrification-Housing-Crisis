@@ -1,10 +1,10 @@
 {
   "audiovisual_files": {
     "d620f218-6219-4f42-9be8-6aedab692b5b": {
-      "label": "garage band audio",
+      "label": "Final_Audio_Draft",
       "is_offline": false,
-      "file_url": "",
-      "duration": 90,
+      "file_url": "https://ia600208.us.archive.org/13/items/final-audio-draft/Final_Audio_Draft.MP3",
+      "duration": 370,
       "caption_set": []
     }
   },
@@ -24,6 +24,6 @@
   "label": "Gentrification: The Housing Crisis",
   "created_at": "2025-04-24T15:08:40.034Z",
   "created_by": "noahvong",
-  "updated_at": "2025-04-24T15:08:40.034Z",
+  "updated_at": "2025-04-29T18:04:21.820Z",
   "updated_by": "noahvong"
 }
